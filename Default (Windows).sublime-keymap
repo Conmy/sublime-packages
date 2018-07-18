@@ -1,0 +1,20 @@
+[
+	{
+		"keys": ["ctrl+alt+t"],
+		"command": "open_terminal",
+		"args": {
+			"parameters": ["-c", "cd \"%CWD%\" && \"C:\\Program Files\\Git\\bin\\sh.exe\" -i -l"]
+		}
+	},
+	{
+		"keys": ["alt+shift+o"],
+		"command": "project_manager",
+		"args": {
+			"action": "new"
+		}
+	},
+	{
+		"keys": ["ctrl+shift+t"],
+		"command": "glue"
+	}
+]

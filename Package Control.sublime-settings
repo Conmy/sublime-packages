@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Anaconda",
+		"DataConverter",
+		"Exalt",
+		"GenerateUUID",
+		"Git",
+		"Git Conflict Resolver",
+		"GitGutter",
+		"GitStatusBar",
+		"JsFormat",
+		"JsonTree",
+		"LiveReload",
+		"Markdown HTML Preview",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Pretty JSON",
+		"ProjectManager",
+		"Scratchpad",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Terminal"
+	]
+}

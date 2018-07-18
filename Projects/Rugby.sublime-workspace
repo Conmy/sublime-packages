@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name2",
+				"name2_alt"
+			],
+			[
+				"output",
+				"outputFileName"
+			],
+			[
+				"pkg1",
+				"pkg1_file_name"
+			],
+			[
+				"files",
+				"files_to_match_in1"
+			],
+			[
+				"fullPath",
+				"pkg1FullPath"
+			],
+			[
+				"files_",
+				"files_to_match_in1"
+			],
+			[
+				"pkg2",
+				"pkg2fileName"
+			],
+			[
+				"pkg",
+				"pkg1FileName"
+			],
+			[
+				"pkg1F",
+				"pkg1FileName"
+			],
+			[
+				"Page",
+				"Page_Header_Components_"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "open",
+		"selected_items":
+		[
+			[
+				"open",
+				"Project Manager: Open Project"
+			],
+			[
+				"Project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"project manager",
+				"Project Manager: Open Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"sesame",
+				"Sesame: Open"
+			],
+			[
+				"jus",
+				"CSV: Justify columns"
+			],
+			[
+				"csv",
+				"CSV: Compact columns"
+			],
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"set del",
+				"CSV: Set delimiter"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"insert",
+				"CSV: Insert column"
+			],
+			[
+				"selec",
+				"CSV: Select column"
+			],
+			[
+				"comp",
+				"CSV: Compact columns"
+			],
+			[
+				"justi",
+				"CSV: Justify columns"
+			],
+			[
+				"delim",
+				"CSV: Set delimiter"
+			],
+			[
+				"select",
+				"CSV: Select column"
+			],
+			[
+				"sele",
+				"CSV: Select column"
+			],
+			[
+				"com",
+				"CSV: Compact columns"
+			],
+			[
+				"sel",
+				"CSV: Select column"
+			],
+			[
+				"delimi",
+				"CSV: Set delimiter"
+			],
+			[
+				"csv:in",
+				"CSV: Insert column"
+			],
+			[
+				"select c",
+				"CSV: Select column"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"select column",
+				"CSV: Select column"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/source/sublime-projects/rugby.sublime-project",
+		"/C/Users/i059151/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/i059151/AppData/Roaming/Sublime Text 3/Packages/Sesame/Default (Windows).sublime-keymap",
+		"/C/Users/i059151/AppData/Roaming/Sublime Text 3/Packages/Sesame/Preferences.sublime-settings",
+		"/C/Users/i059151/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/module/codelists/private/content/matchStatisticEvents/Codelists_Rugby.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/appsvc/lineups/services/rest/lineups.xsjslib",
+		"/C/dev/source/work/SportsOne/sports-data/sql-import/sap/sports/rugby/00_setup_data_import.sql",
+		"/C/dev/source/work/SportsOne/sports-data/sql-import/sap/sports/rugby/01_set_application_sports_type.sql",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/module/lineups/private/table/LINEUP_POSITIONS.hdbtable",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/module/lineups/restricted/lib/lineups.xsjslib",
+		"/C/dev/source/work/SportsOne/sports-rugby/Gruntfile.js",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/module/systemMetadata/private/content/System_DUs.csv",
+		"/C/dev/source/work/SportsOne/sports-fnd/src/main/xsapp/module/codelists/private/content/Codelist_Hierarchies.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/module/codelists/content/fnd/Codelist_Hierarchies_Rugby.hdbti",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/module/codelists/content/fnd/Codelist_Hierarchies_Rugby.csv",
+		"/C/Users/i059151/Downloads/logs-from-hana03-in-hana03-0.txt",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/module/codelists/content/fnd/Codelists_Rugby.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/tm/PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/cfg/import.ais",
+		"/C/dev/source/work/SportsOne/sports-fnd/src/main/xsapp/module/personalization/pageComponents/protected/lib/pageComponentsPersonalization.xsjslib",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/fnd/PageComponents_Rugby.hdbti",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/fnd/PageComponents_Rugby.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/PageComponents_Rugby.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/PageComponent_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/PageComponent_Texts_Rugby_fr_FR.hdbti",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/PageComponent_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-tm/src/main/xsapp/module/portal/private/content/PageComponent_Texts_Soccer_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-tm/src/main/xsapp/module/portal/private/content/PageComponent_Texts_Soccer_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/tm/PageComponent_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/tm/PageComponent_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/tm/PageComponent_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-tm/src/main/xsapp/module/portal/private/content/PageComponent_Texts_Soccer_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/tm/Page_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-tm/src/main/xsapp/module/portal/private/content/Page_Texts_Soccer_en_GB.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/missing_in_Pages_XXX.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/Pages_Rugby.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/PageComponents_Rugby.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/missing_in_PageComponents_XXX.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/missing_in_PageComponent_Texts_XXX_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/PageComponent_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/missing_in_PageComponent_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/PageComponent_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/PageComponent_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/missing_in_PageComponent_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/missing_in_Page_Texts_XXX_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/Page_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/missing_in_Page_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/Page_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/missing_in_Page_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/Page_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/files_missing_in_PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/trm/Page_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/trm/files_missing_in_Page_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/tm/missing_in_PageComponent_Texts_XXX_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/tm/missing_in_PageComponent_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/tm/missing_in_PageComponent_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/tm/missing_in_Page_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_Pages_XXX.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/Pages_Rugby.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_PageComponents_XXX.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_PageComponent_Texts_XXX_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_PageComponent_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/PageComponent_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_PageComponent_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_Page_Texts_XXX_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/Page_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/Page_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_Page_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_Page_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/Page_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/Page_Texts_Rugby_en.hdbti",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/missing_in_Page_Header_Components_XXX.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/Page_Header_Components_Rugby.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/files_missing_in_PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/sct/files_missing_in_Page_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/sct/Page_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pe/Page_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/missing_in_PageComponent_Texts_XXX_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pd/PageComponent_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/missing_in_PageComponent_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pd/PageComponent_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/missing_in_PageComponent_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pd/PageComponent_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pd/PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/files_missing_in_PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/missing_in_Page_Texts_XXX_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pd/Page_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/missing_in_Page_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pd/Page_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pd/Page_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/missing_in_Page_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/pd/Page_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/files_missing_in_Page_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/files_missing_in_IceHockey",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/pd/files_missing_in_Rugby",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/mi/files_missing_in_IceHockey",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/mi/all_files_in_Rugby",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/mi/files_missing_in_Rugby",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/mi/all_files_in_IceHockey",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/med/PageComponents_Rugby.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/med/missing_in_PageComponents_XXX.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/sports-icehockey/src/main/xsapp/db/content/med/PageComponents_IceHockey.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/med/missing_in_PageComponent_Texts_XXX_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/med/Portal_Dashboard_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/med/missing_in_PageComponent_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/med/PageComponent_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/med/missing_in_PageComponent_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/med/PageComponent_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/med/PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/med/files_missing_in_PageComponent_Texts_Rugby_en.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/sports-icehockey/src/main/xsapp/db/content/imp/PageComponents_IceHockey.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/imp/PageComponents_Rugby.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/imp/all_files_in_IceHockey",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/imp/all_files_in_Rugby",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/imp/files_missing_in_Rugby",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/imp/files_missing_in_IceHockey",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/fnd/missing_in_Portal_Registration_Texts_XXX_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/fnd/Portal_Registration_Texts_Rugby_en_GB.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/fnd/Portal_Dashboard_Texts_Rugby_en_US.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/fnd/missing_in_Portal_Dashboard_Texts_XXX_en_US.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/fnd/Pages_Rugby.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/fnd/missing_in_Pages_XXX.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/fnd/missing_in_PageComponents_XXX.csv",
+		"/C/dev/source/work/SportsOne/sports-rugby/src/main/xsapp/db/content/fnd/PageComponent_Texts_Rugby_fr_FR.csv",
+		"/C/dev/source/work/SportsOne/ensure-rugby-icehockey/results/fnd/missing_in_PageComponent_Texts_XXX_fr_FR.csv"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"C:\\dev\\source\\work\\SportsOne\\sports-rugby",
+			"C:\\dev\\source\\work\\SportsOne\\sports-fnd\\src\\main",
+			"<current file>",
+			"C:\\dev\\source\\work\\SportsOne\\sports-fnd",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LINEUPS_V",
+			"LINEUP_INFO",
+			"SQL.LINEUP_INFO",
+			"PERS_ROLE_PLAYER",
+			"player",
+			"pageComponent",
+			"PageComponent",
+			"otherstaff_data",
+			"team_evaluation",
+			"team_evaluation;sap.sports.fnd.ui.evaluation",
+			"team_evaluation;sap.sports.fnd.ui.evaluation.team",
+			"team_evaluation;sap.sports.fnd.ui.evaluation.team;sap.spor",
+			"team_evaluation;sap.sports.fnd.ui.evaluation.team;sap.sports.fnd.appsvc.evaluation.team::getEvaluations",
+			"team_evaluation;sap.sports.fnd.ui.evaluation.team;sap.sports.fnd.appsvc.evaluation.team::getEvaluations;10",
+			";Z;",
+			"match_scouting;sap.sports.sct.ui.matchReports",
+			";match_scouting;sap.sports.sct.ui.matchReport;en;Match Report",
+			";Z;",
+			"questionnairelist;sap.sports.pd.ui.questionnaireList;en_GB;Questionnaires",
+			";Z;",
+			"tracking_configuration;sap.sports.pd.ui.kpiList.tracking;",
+			"MedReportTeam;sap.sports.med.ui.fitnesshistoryteam;sap.sports.med.ui.fitnesshistoryteam::display;100;;1000px;sap-icon://sap-sports/icon-medications;",
+			"player_med;sap.sports.med.ui.medicaleventsoverview;sap.sports.med.ui.medicaleventsoverview::display",
+			"catalogues_injury;sap.sports.med.ui.injuryTags;sap.sports.med.ui.injuryTags::display",
+			"catalogues_injury;sap.sports.med.ui.treatmentType;sap.sports.med.ui.treatmentType::display;140;;500px;sap-icon://sap-sports/icon-treatment;",
+			"MedReportTeam;sap.sports.med.ui.fitnesshistoryteam;sap.sports.med.ui.fitnesshistoryteam::display;100;;1000px;sap-icon://sap-sports/icon-medications;",
+			"injury;sap.sports.med.ui.treatment_V2.detail;sap.sports.med.ui.treatment_V2.detail::display;103;;1000px;sap-icon://sap-sports/icon-treatment;",
+			"player_med;sap.sports.med.ui.treatment.overview;sap.sports.med.ui.treatment.overview::display;20;;1000px;sap-icon://sap-sports/icon-treatment;!sap.sports.med.module.treatment::TREATMENT_TYPES",
+			"player_med;sap.sports.med.ui.treatment_V2.overview;sap.sports.med.ui.treatment_V2.overview::display;20;;1000px;sap-icon://sap-sports/icon-treatment;",
+			"catalogues_injury;sap.sports.med.ui.injuryTags;en_US;Tags",
+			"sap.sports.fnd.ui.calendar;en_US;",
+			"sap.sports.fnd.ui.calendar;en_US;Team Calendar",
+			"FND;Z;teamevaluation;sap.sports.fnd.ui.evaluation.teamOld;sap.sports.fnd.appsvc.evaluation.team::getEvaluations;10;;500px;sap-icon://sap-sports/icon-scouting-report;sap.sports.fnd.module.evaluation.team.content::OLD_ENABLED",
+			"teamevaluation;sap.sports.fnd.ui.evaluation.team;sap.sports.fnd.appsvc.evaluation.team::getEvaluations;10;;500px;sap-icon://sap-sports/icon-scouting-report;sap.sports.fnd.module.evaluation.team.content::ENABLED",
+			"staff_data;sap.sports.fnd.ui.personAttributes;sap.sports.fnd.ui.personAttributes::displayStaff;15;;500px;sap-icon://sap-sports/icon-staff;sap.sports.fnd.module.personAttributes::PERSON_ATTRIBUTES",
+			"player_data;sap.sports.fnd.ui.personAttributes;sap.sports.fnd.ui.personAttributes::displayPlayer;15;;500px;sap-icon://sap-sports/icon-player-info;sap.sports.fnd.module.personAttributes::PERSON_ATTRIBUTES",
+			"sports",
+			"staff_data;sap.sports.fnd.ui.personAttributes;",
+			"teamevaluation;sap.sports.fnd.ui.evaluation.teamOld;",
+			"staff_log;sap.sports.fnd.ui.playerlog",
+			"mystartmessages",
+			"mystartmessages;;myStartMessages",
+			"personassignments",
+			"contact_log;sap.sports.fnd.ui.playerlog",
+			"player_log;sap.sports.fnd.ui.playerlog;",
+			"mystartmessages",
+			"contact_log",
+			"admin_importConfig",
+			"mystartmessages",
+			"importConfig",
+			"datasecurity_personalDataDeleteDetails;sap.sports.fnd.ui.datasecurity.header;1;;;",
+			";Z;",
+			"contact_log;sap.sports.fnd.ui.playerlog;en;Notes",
+			"admin_importConfig;sap.sports.fnd.ui.datafileConfig;en;Import Configuration",
+			";Z;",
+			"admin_importConfig;en;Import Configuration",
+			";en_GB;",
+			";Z;",
+			"sap.sports.fnd.ui.playerstatistics",
+			"player_matches;sap.sports.fnd.ui.playerstatistics",
+			"sap.sports.fnd.ui.playerlog",
+			"FND;Rugby;mystartmessages;sap.sports.fnd.ui.myStartMessages;en_GB;My User Consent",
+			"FND;Rugby;staff_log;sap.sports.fnd.ui.playerlog;en_GB;Notes",
+			"FND;Rugby;player_log;sap.sports.fnd.ui.playerlog;en_GB;Notes",
+			"FND;Rugby;player_matches;sap.sports.fnd.ui.playerstatistics;en_GB;Match Statistics",
+			"FND;Rugby;otherplayer_log;sap.sports.fnd.ui.playerlog;en_GB;Notes",
+			"match_analysis;sap.sports.fnd.ui.matchstatistics;en_GB;Match Timeline",
+			"datasecurity_audittrail_details;sap.sports.fnd.ui.datasecurity.logdetails;en_GB;Access Log Details",
+			";Z;",
+			"admin_imports",
+			"MATCHES_V",
+			"_V",
+			"module",
+			"_V",
+			"analytics",
+			"Seems to be missing",
+			"missing_$file_name",
+			"missing_",
+			"missing_in_$name2",
+			"files_missing_in_$name",
+			"missing_",
+			"all_files_$name2",
+			"all_files_$name1",
+			"en;",
+			"named",
+			"Z"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";Rugby;",
+			";en_US;",
+			";Rugby;",
+			"missing_in_$file_name",
+			"all_files_in_$name2",
+			"all_files_in_$name1",
+			"en_US;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Rugby.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

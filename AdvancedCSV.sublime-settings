@@ -1,0 +1,6 @@
+{
+  "delimiter_mapping": {
+  	"*.csv": ","
+  },
+  "word_wrap": false
+}

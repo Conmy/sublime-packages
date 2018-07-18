@@ -1,0 +1,20 @@
+{
+	"close_windows_when_empty": false,
+	"font_size": 10,
+	"font_face": "Fira Code Light",
+	"font_options": 
+	[
+		"subpixel_antialias"
+	],
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"theme": "Default.sublime-theme",
+	"uuid_uppercase": true
+}
