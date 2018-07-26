@@ -1,0 +1,18 @@
+{
+    "Linux": {
+        "Terminal": {
+            "terminal": "/usr/bin/gnome-terminal"
+        },
+        "project_manager": {
+            "projects_path": ["~/dev/source/sublime-projects"]
+        }
+    },
+    "windows": {
+        "Terminal": {
+            "terminal": "C:\\Program Files\\Git\\git-bash.exe"
+        },
+        "project_manager": {
+            "projects_path": ["C:\\dev\\source\\sublime-projects"]
+        }
+    }
+}
